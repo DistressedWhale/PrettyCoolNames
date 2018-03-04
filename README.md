@@ -2,6 +2,8 @@
 
 ##### A simple mod for Into the Breach by Subset Games.
  Instead of mech names being boring stuff like "Punch Mech", the names are picked from a random list of names such as "Vanguard", "Striker" etc.
+ 
+ Only the first four squads are done. (Rift Walkers, Rusting Hulks, Steel Judoka and Blitzkrieg)
 
 ## Installation
 1. Download the git repository
