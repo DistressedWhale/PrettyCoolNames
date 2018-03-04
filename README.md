@@ -1,7 +1,7 @@
 # Pretty Cool Names
 
-### A simple mod for Into the Breach, by Subset Games.
-### Instead of mech names being boring stuff like "Punch Mech", the names are picked from a random list of names such as "Vanguard", "Striker" etc.
+##### A simple mod for Into the Breach by Subset Games.
+ Instead of mech names being boring stuff like "Punch Mech", the names are picked from a random list of names such as "Vanguard", "Striker" etc.
 
 ## Installation
 1. Download the git repository
