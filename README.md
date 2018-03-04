@@ -6,7 +6,7 @@
 ## Installation
 1. Download the git repository
 2. Move `PrettyCoolNames.lua` into `steamapps/common/Into The Breach/scripts`
-3. Open scripts.lua with a text editor. Add the line:
+3. Open scripts.lua (found in the same scripts directory) with a text editor. Add the line:
 
 ```
 "scripts/PrettyCoolNames.lua",
