@@ -22,3 +22,7 @@ after
 
 Make sure the commas are included.
 [Example of what scripts.lua should look like](https://imgur.com/a/Pj1II)
+
+## How to Uninstall
+1. Remove the line `"scripts/PrettyCoolNames.lua",` from `scripts.lua`
+2. (Optional) Delete PrettyCoolNames.lua
