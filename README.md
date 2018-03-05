@@ -20,4 +20,5 @@ after
 "scripts/pawns.lua",
 ```
 
+Make sure the commas are included.
 [Example of what scripts.lua should look like](https://imgur.com/a/Pj1II)
